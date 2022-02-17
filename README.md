@@ -3,8 +3,8 @@
 ## Books
 
 ### 世界读书日 Apr 23, 2020
-|Name                                                          |Author                |Publish Date|Recommended By|Link                                                                 |ISBN         |Description|
-|--------------------------------------------------------------|----------------------|------------|--------------|---------------------------------------------------------------------|-------------|-----------|
+|Name   |Author    |Publish Date| Recommended By| Link  |ISBN         |Comments|
+|-------|----------|------------|---------------|-------|-------------|-----------|
 |The 1 Book: How Many People Does it Take to Make a Difference?|Dan Zadra, Kobi Yamada|Jan 1, 2020 |Ann Zhang     |https://www.amazon.com/Many-People-Does-Take-Difference/dp/1932319727|9781932319729|           |
 |自私的基因                                                         |里查德.道金斯               |Oct, 1998   |Ann Zhang     |https://book.douban.com/subject/1292405/                             |9787206030048|           |
 |小楼与大师                                                         |卢昌海                   |May 30, 2014|Raid Xu       |https://book.douban.com/subject/25909372/                            |9787302359654|           |
